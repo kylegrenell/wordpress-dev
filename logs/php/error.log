@@ -9,3 +9,9 @@
 [11-Dec-2017 13:28:46 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 2
 [11-Dec-2017 13:28:56 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 2
 [11-Dec-2017 13:32:48 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 5
+[11-Dec-2017 14:12:57 UTC] PHP Parse error:  syntax error, unexpected '=' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[11-Dec-2017 14:13:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[11-Dec-2017 14:13:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[11-Dec-2017 14:21:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 5
+[11-Dec-2017 14:23:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 6
+[11-Dec-2017 14:24:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 5
