@@ -3,3 +3,7 @@ Theme Name: Fictional University
 Author: Kyle Grenell
 Version: 1.0
 */
+
+html, body {
+  color: green;
+ }
