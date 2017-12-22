@@ -2,3 +2,10 @@
 [11-Dec-2017 10:05:58] NOTICE: ready to handle connections
 [11-Dec-2017 12:10:21] NOTICE: fpm is running, pid 25
 [11-Dec-2017 12:10:21] NOTICE: ready to handle connections
+[12-Dec-2017 23:12:23] NOTICE: fpm is running, pid 25
+[12-Dec-2017 23:12:23] NOTICE: ready to handle connections
+[17-Dec-2017 13:06:01] NOTICE: fpm is running, pid 25
+[17-Dec-2017 13:06:01] NOTICE: ready to handle connections
+[22-Dec-2017 14:00:48] NOTICE: Terminating ...
+[22-Dec-2017 14:00:48] NOTICE: exiting, bye-bye!
+[22-Dec-2017 14:00:48] ERROR: Unable to remove the PID file (/opt/php/7.1.7/var/run/php-fpm.pid).: Read-only file system (30)

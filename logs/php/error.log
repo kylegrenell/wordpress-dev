@@ -24,3 +24,8 @@ Stack trace:
 #4 /app/public/index.php(17): require('/app/public/wp-...')
 #5 {main}
   thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 2
+[17-Dec-2017 13:25:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[18-Dec-2017 10:16:54 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Dec-2017 10:16:55 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Dec-2017 10:16:58 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[18-Dec-2017 10:16:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75

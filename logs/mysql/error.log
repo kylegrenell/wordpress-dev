@@ -63,3 +63,89 @@ Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Comm
 2017-12-11 12:10:21 38 [Note] Event Scheduler: Loaded 0 events
 2017-12-11 12:10:21 38 [Note] /usr/sbin/mysqld: ready for connections.
 Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2017-12-12 23:12:23 43 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2017-12-12 23:12:23 43 [Note] Plugin 'FEDERATED' is disabled.
+2017-12-12 23:12:23 43 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2017-12-12 23:12:23 43 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-12-12 23:12:23 43 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-12-12 23:12:23 43 [Note] InnoDB: Memory barrier is not used
+2017-12-12 23:12:23 43 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-12-12 23:12:23 43 [Note] InnoDB: Using Linux native AIO
+2017-12-12 23:12:23 43 [Note] InnoDB: Using CPU crc32 instructions
+2017-12-12 23:12:23 43 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2017-12-12 23:12:23 43 [Note] InnoDB: Completed initialization of buffer pool
+2017-12-12 23:12:23 43 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-12-12 23:12:23 43 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 3211576 in the ib_logfiles!
+2017-12-12 23:12:23 43 [Note] InnoDB: Database was not shutdown normally!
+2017-12-12 23:12:23 43 [Note] InnoDB: Starting crash recovery.
+2017-12-12 23:12:23 43 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-12-12 23:12:23 43 [Note] InnoDB: Restoring possible half-written data pages 
+2017-12-12 23:12:23 43 [Note] InnoDB: from the doublewrite buffer...
+2017-12-12 23:12:24 43 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-12-12 23:12:24 43 [Note] InnoDB: Waiting for purge to start
+2017-12-12 23:12:24 43 [Note] InnoDB: 5.6.37 started; log sequence number 3211576
+2017-12-12 23:12:24 43 [Note] Server hostname (bind-address): '*'; port: 3306
+2017-12-12 23:12:24 43 [Note] IPv6 is available.
+2017-12-12 23:12:24 43 [Note]   - '::' resolves to '::';
+2017-12-12 23:12:24 43 [Note] Server socket created on IP: '::'.
+2017-12-12 23:12:24 43 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-12 23:12:24 43 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-12 23:12:24 43 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-12 23:12:24 43 [Note] Event Scheduler: Loaded 0 events
+2017-12-12 23:12:24 43 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2017-12-17 13:06:02 38 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2017-12-17 13:06:02 38 [Note] Plugin 'FEDERATED' is disabled.
+2017-12-17 13:06:02 38 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2017-12-17 13:06:02 38 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-12-17 13:06:02 38 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-12-17 13:06:02 38 [Note] InnoDB: Memory barrier is not used
+2017-12-17 13:06:02 38 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-12-17 13:06:02 38 [Note] InnoDB: Using Linux native AIO
+2017-12-17 13:06:02 38 [Note] InnoDB: Using CPU crc32 instructions
+2017-12-17 13:06:02 38 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2017-12-17 13:06:02 38 [Note] InnoDB: Completed initialization of buffer pool
+2017-12-17 13:06:02 38 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-12-17 13:06:02 38 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 3783282 in the ib_logfiles!
+2017-12-17 13:06:02 38 [Note] InnoDB: Database was not shutdown normally!
+2017-12-17 13:06:02 38 [Note] InnoDB: Starting crash recovery.
+2017-12-17 13:06:02 38 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-12-17 13:06:02 38 [Note] InnoDB: Restoring possible half-written data pages 
+2017-12-17 13:06:02 38 [Note] InnoDB: from the doublewrite buffer...
+2017-12-17 13:06:02 38 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-12-17 13:06:02 38 [Note] InnoDB: Waiting for purge to start
+2017-12-17 13:06:02 38 [Note] InnoDB: 5.6.37 started; log sequence number 3783282
+2017-12-17 13:06:02 38 [Note] Server hostname (bind-address): '*'; port: 3306
+2017-12-17 13:06:02 38 [Note] IPv6 is available.
+2017-12-17 13:06:02 38 [Note]   - '::' resolves to '::';
+2017-12-17 13:06:02 38 [Note] Server socket created on IP: '::'.
+2017-12-17 13:06:02 38 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-17 13:06:02 38 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-17 13:06:02 38 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2017-12-17 13:06:02 38 [Note] Event Scheduler: Loaded 0 events
+2017-12-17 13:06:02 38 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2017-12-22 14:00:48 38 [Note] /usr/sbin/mysqld: Normal shutdown
+
+14:00:48 UTC - mysqld got signal 7 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+We will try our best to scrape up some info that will hopefully help
+diagnose the problem, but since we have already crashed, 
+something is definitely wrong and this may fail.
+
+key_buffer_size=16777216
+read_buffer_size=131072
+max_used_connections=6
+max_threads=151
+thread_count=0
+connection_count=0
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 76300 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x2b7d7f0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
