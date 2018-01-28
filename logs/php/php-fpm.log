@@ -9,3 +9,7 @@
 [22-Dec-2017 14:00:48] NOTICE: Terminating ...
 [22-Dec-2017 14:00:48] NOTICE: exiting, bye-bye!
 [22-Dec-2017 14:00:48] ERROR: Unable to remove the PID file (/opt/php/7.1.7/var/run/php-fpm.pid).: Read-only file system (30)
+[22-Dec-2017 14:04:55] NOTICE: fpm is running, pid 8
+[22-Dec-2017 14:04:55] NOTICE: ready to handle connections
+[28-Jan-2018 14:29:29] NOTICE: fpm is running, pid 8
+[28-Jan-2018 14:29:29] NOTICE: ready to handle connections

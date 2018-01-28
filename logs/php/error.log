@@ -29,3 +29,32 @@ Stack trace:
 [18-Dec-2017 10:16:55 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Dec-2017 10:16:58 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Dec-2017 10:16:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Dec-2017 14:05:04 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Dec-2017 14:05:05 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Dec-2017 14:05:06 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Dec-2017 14:05:06 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Jan-2018 21:41:17 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Jan-2018 21:41:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Jan-2018 21:41:19 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Jan-2018 21:41:20 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[06-Jan-2018 21:41:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 22
+[06-Jan-2018 21:43:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 24
+[22-Jan-2018 08:39:57 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 08:39:57 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 08:39:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 08:39:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 10:11:29 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 10:11:30 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 10:11:33 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 10:11:33 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Jan-2018 16:09:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 22
+[28-Jan-2018 16:09:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 22
+[28-Jan-2018 16:55:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/page.php on line 22 and exactly 1 expected in /app/public/wp-includes/post.php:6035
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(22): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6035
+[28-Jan-2018 16:59:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 23
