@@ -297,3 +297,8 @@ Stack trace:
 [29-Jan-2018 12:11:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/header.php on line 21
 [29-Jan-2018 12:12:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/header.php on line 21
 [29-Jan-2018 12:12:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/header.php on line 21
+[29-Jan-2018 16:05:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[29-Jan-2018 16:06:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[29-Jan-2018 16:08:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[29-Jan-2018 16:10:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[29-Jan-2018 16:12:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
