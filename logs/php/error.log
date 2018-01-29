@@ -58,3 +58,238 @@ Stack trace:
 #4 {main}
   thrown in /app/public/wp-includes/post.php on line 6035
 [28-Jan-2018 16:59:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 23
+[28-Jan-2018 18:13:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:20:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:26:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/page.php(3): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 18:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /app/public/wp-content/themes/fictional-university-theme/header.php:4
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 4
+[28-Jan-2018 19:23:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Jan-2018 19:23:59 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Jan-2018 19:24:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Jan-2018 19:24:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
